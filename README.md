@@ -7,9 +7,13 @@ I can't provide the source code right now, you can only download the installer o
 You can download the installer of the latest version by clicking on the [Releases](https://github.com/iminet/darkswitcher/releases) link
 
 ## Screenshots
-Here's the main window of the application
+Here's the main window of the application in light...
 
 ![Main window](https://i.ibb.co/RN39Brx/darkswitcher-screenshot-1-0-7780.png)
+
+... and in dark
+
+![Main window](https://i.ibb.co/8df6c1f/darkswitcher-screenshot-dark-1-0-7780.png)
 
 ## Important
 This tool works on Windows 10 only. If you install this tool on other operating systems, switching between dark/light theme won't work.
