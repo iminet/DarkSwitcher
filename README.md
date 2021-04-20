@@ -4,6 +4,9 @@ This is a free application for Windows 10, what helps you to schedule switching 
 
 I can't provide the source code right now, you can only download the installer only. Publishing source code is in my future plans.
 
+## Download
+You can download the installer of the latest version by clicking on the [Releases](https://github.com/iminet/darkswitcher/releases) link
+
 ## Important
 This tool works on Windows 10 only. If you install this tool on other operating systems, switching between dark/light theme won't work.
 
