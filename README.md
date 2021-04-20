@@ -6,6 +6,11 @@ I can't provide the source code right now, you can download the installer only. 
 ## Download
 You can download the installer of the latest version by clicking on the [Releases](https://github.com/iminet/darkswitcher/releases) link
 
+## System requirements
+- a PC running Windows 10 (x86 or x64)
+- [.NET Framework 4.8 or newer](https://dotnet.microsoft.com/download/dotnet-framework)
+- a few megabytes of free space on your SSD/HDD
+
 ## Screenshots
 Here's the main window of the application in light...
 
