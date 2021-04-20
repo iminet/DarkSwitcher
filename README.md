@@ -8,6 +8,7 @@ You can download the installer of the latest version by clicking on the [Release
 
 ## Screenshots
 Here's the main window of the application
+
 ![Main window](https://i.ibb.co/RN39Brx/darkswitcher-screenshot-1-0-7780.png)
 
 ## Important
