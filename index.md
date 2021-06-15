@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# DarkSwitcher
+This is a free application for Windows 10, what helps you to schedule switching between dark and light theme automatically.
 
-You can use the [editor on GitHub](https://github.com/iminet/DarkSwitcher/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I can't provide the source code right now, you can download the installer only. Publishing source code is in my future plans.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Download and install
+You can download the installer of the latest version by clicking on the [Releases](https://github.com/iminet/darkswitcher/releases) link. By choosing the latest version, click on the `DarkSwitcherSetupx.x.xxxx.exe` to download the installer. After the installer downloaded, you can run the installer like any Windows programs.
 
-### Markdown
+## System requirements
+- a PC running Windows 10 (x86 or x64)
+- [.NET Framework 4.8 or newer](https://dotnet.microsoft.com/download/dotnet-framework)
+- a few megabytes of free space on your SSD/HDD
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Screenshots
+Here's the main window of the application in light...
 
-```markdown
-Syntax highlighted code block
+![Main window](https://i.ibb.co/RN39Brx/darkswitcher-screenshot-1-0-7780.png)
 
-# Header 1
-## Header 2
-### Header 3
+... and in dark
 
-- Bulleted
-- List
+![Main window](https://i.ibb.co/8df6c1f/darkswitcher-screenshot-dark-1-0-7780.png)
 
-1. Numbered
-2. List
+## Important
+This tool works on Windows 10 only. If you install this tool on other operating systems, switching between dark/light theme won't work.
 
-**Bold** and _Italic_ and `Code` text
+## Command line (CLI)
+Coming soon...
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iminet/DarkSwitcher/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Feedback
+Since this software is under development, your feedbacks are highly welcomed. Thank you! If you're getting bugs or unwanted behaviors, please report it me first, instead of negative or swearing comments.
