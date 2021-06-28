@@ -24,7 +24,51 @@ Here's the main window of the application in light...
 This tool works on Windows 10 only. If you install this tool on other operating systems, switching between dark/light theme won't work.
 
 ## Command line (CLI)
-Coming soon...
+This software has limited, experimental CLI functionality. There's no visual feedback in CLI mode. After using a command, the application will return and throws `0` exit code (what means: terminated without any failure).
+
+### Usage
+```
+darkswitcher [OPTIONS]
+```
+
+### Options
+Options are case-sensitive. There are two ways to use multiple options in the same time:
+- separated mode: each multi-character option is followed after double dash (--): `--console --toggle`
+- merged mode: all single-character options are followed after a simple dash (--): `-cT`. All options should be a single character
+```
+-c, --console						Launch in CLI mode
+-T, --toggle						Toggle between light and dark mode
+-D, --dark							Switch to dark mode
+-L, --light							Switch to light mode
+```
+
+### Launch in CLI mode
+To start your application in CLI mode, showing without the main form, use the following option
+```
+darkswitcher --console
+# OR
+darkswitcher -c
+```
+
+### Examples
+Never forget to use `--console` (separated) or `-c` (merged) option, elseway you'll get the main window instead your desired CLI command.
+The options are case sensitive! Don't be confused, `-c` isn't equal to `-C`
+```
+# Switch between dark and light mode:
+darkswitcher --console --toggle
+# or
+darkswitcher -cT
+
+# Switch to light (no effect if you're already in light mode):
+darkswitcher --console --light
+# or
+darkswitcher -cL
+
+# Switch to dark (no effect if you're already in dark mode):
+darkswitcher --console --dark
+# or
+darkswitcher -cD
+```
 
 ## Feedback
 Since this software is under development, your feedbacks are highly welcomed. Thank you! If you're getting bugs or unwanted behaviors, please report it me first, instead of negative or swearing comments.
